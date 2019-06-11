@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='GhostAppUITests.xctest' tests='3' failures='0'>
+  <testsuite name='GhostAppTests' tests='2' failures='0'>
+    <testcase classname='GhostAppTests' name='testExample' time='0.001'/>
+    <testcase classname='GhostAppTests' name='testPerformanceExample' time='0.353'/>
+  </testsuite>
+  <testsuite name='GhostAppUITests' tests='1' failures='0'>
+    <testcase classname='GhostAppUITests' name='testExample' time='4.673'/>
+  </testsuite>
+</testsuites>
